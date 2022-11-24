@@ -1,9 +1,9 @@
 # Farmify
 
-Farmify aims to control farm appliances wirelessly.
-The system uses a GSM module which is based on SMS technique to operate devices remotely. 
-Temperature and humidity sensor DHT22 captures the surrounding temperature and humidity of environment. 
-These readings are sent to the user via SMS and also uploaded to ThingsSpeak Cloud Platform for analysis and storing for User reference.
+Farmify aims to control farm appliances wirelessly. 
+The system uses a GSM module which is based on the SMS technique to operate devices remotely. 
+Temperature and humidity sensor DHT22 captures the surrounding temperature and humidity of the environment. 
+These readings are sent to the user via SMS and also uploaded to the ThingsSpeak Cloud Platform for analysis and storing for User reference
 
 ## Demo
 
